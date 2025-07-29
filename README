@@ -1,1 +1,18 @@
+ATM Management System
 
+
+This is a console-based ATM simulation project developed using Object-Oriented Programming (OOP) principles. The application simulates basic ATM operations for a single user or multiple users depending on the design.
+
+Features
+Check Bank Balance
+
+Withdraw Cash
+
+View User Details
+
+Change Registered Mobile Number
+
+Technologies Used
+Programming Language: C++ 
+
+Concepts: Object-Oriented Programming (Classes, Objects, Encapsulation)
